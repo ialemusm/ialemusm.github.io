@@ -1,10 +1,10 @@
 module.exports = {
-  defaultTitle: 'John Doe',
+  defaultTitle: 'Iván Andrés Lemus',
   logo: 'https://portfolio.smakosh.com/favicon/favicon-512.png',
-  author: 'John Doe',
+  author: 'Iván Andrés Lemus',
   url: 'https://portfolio.smakosh.com',
-  legalName: 'John Doe',
-  defaultDescription: 'I’m John and I’m a Backend & Devops engineer!',
+  legalName: 'Iván Andrés Lemus',
+  defaultDescription: 'I’m Iván and I’m a software engineer!',
   socialLinks: {
     twitter: 'http://www.twitter.com/smakosh',
     github: 'https://github.com/smakosh',
@@ -21,9 +21,9 @@ module.exports = {
     twitter: '@smakosh',
   },
   address: {
-    city: 'City',
+    city: 'Bogotá D.C',
     region: 'Region',
-    country: 'Country',
+    country: 'Colombia',
     zipCode: 'ZipCode',
   },
   contact: {
@@ -31,5 +31,5 @@ module.exports = {
     phone: 'phone number',
   },
   foundingDate: '2018',
-  recaptcha_key: '6Lcs6lQUAAAAAEwhNH2IsobIe2csdda4TU3efpMN',
+  recaptcha_key: '6LcslugUAAAAAE-1sZ8dIBazWWKzuGfQVwu8qc-1',
 };

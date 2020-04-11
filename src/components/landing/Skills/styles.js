@@ -1,5 +1,6 @@
 import styled from 'styled-components';
 import detailsIllustration from 'assets/illustrations/details.svg';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 export const Wrapper = styled.div`
   background-image: url(${detailsIllustration});
